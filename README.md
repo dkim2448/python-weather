@@ -1,6 +1,6 @@
 ### python weather app to learn flask
 
-link: https://python-weather-w3o9.onrender.com/
+link to try: https://python-weather-w3o9.onrender.com/
 
 simple flask web app that displays current weather conditions using the openweather api. users can enter a city name to view temperature, weather description, and other details in real time.
 
